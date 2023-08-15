@@ -5,13 +5,12 @@ Esse repositório irá ser um guia completo com exemplos e definições sobre HT
   A linguagem é construída através de tags que são os elementos HTML. Os principais elementos HTML são:
 -  < html >
 
-  Esse é o elemento raiz ele define o nosso documento HTML
+Esse é o elemento raiz ele define o nosso documento HTML
 
 - < head >
 
-  Esse elemento comporta os principais metadados do documento, trazendo o título e a codificação de caracteres da página
+Esse elemento comporta os principais metadados do documento, trazendo o título e a codificação de caracteres da página
 
 - < body >
-
-  Comporta o conteúdo exposto na página construída.
+Comporta o conteúdo exposto na página construída.
   
