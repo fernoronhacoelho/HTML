@@ -12,5 +12,6 @@ Esse é o elemento raiz ele define o nosso documento HTML
 Esse elemento comporta os principais metadados do documento, trazendo o título e a codificação de caracteres da página
 
 - < body >
+
 Comporta o conteúdo exposto na página construída.
   
